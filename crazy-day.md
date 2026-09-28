@@ -12,4 +12,4 @@
 |ZhongShan Park | YES |
 
 #### You can click on the link bellow to know about xiamen.
-[厦门旅游官网](https://www.xm.gov.cn)
+[厦门市人民政府](https://www.xm.gov.cn)
